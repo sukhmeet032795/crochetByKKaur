@@ -1,0 +1,10 @@
+// Edit these prices before publishing. Set salePrice to null for no reduction.
+window.PRODUCTS = [
+  { id:'doilies', name:'Crochet Doilies', category:'home', categoryLabel:'For your home', price:799, salePrice:499, image:'assets/doilies.jpg', alt:'Colorful handmade crochet doilies', description:'A little handmade detail for your favorite corner.' },
+  { id:'potli', name:'Crochet Potli Bags', category:'carry', categoryLabel:'Carry a little joy', price:1299, salePrice:999, image:'assets/potli-bags.jpg', alt:'Two handmade drawstring crochet potli bags', description:'A charming carry-all for celebrations and little things.' },
+  { id:'pouch', name:'Crochet Pouch', category:'carry', categoryLabel:'Carry a little joy', price:899, salePrice:699, image:'assets/pouch.jpg', alt:'Deep green handmade crochet pouch with cream tie', description:'A soft, useful home for your everyday essentials.' },
+  { id:'dreamcatcher', name:'Crochet Dream Catcher', category:'home', categoryLabel:'For your home', price:1699, salePrice:999, image:'assets/dream-catcher.jpg', alt:'Purple crochet mandala dream catcher with pearl details', description:'A delicate mandala to bring a thoughtful touch to your space.' },
+  { id:'bunting', name:'Birthday Bunting', category:'gifts', categoryLabel:'Gifts & play', price:1599, salePrice:1299, image:'assets/bunting.jpg', alt:'Red handmade crochet birthday bunting on a sofa', description:'A reusable handmade garland for happy celebrations.' },
+  { id:'coasters', name:'Crochet Coasters', category:'home', categoryLabel:'For your home', price:899, salePrice:599, image:'assets/coasters.jpg', alt:'Set of colorful button-shaped crochet coasters', description:'A cheerful little landing place for your cup.' },
+  { id:'stressballs', name:'Crochet Stress Balls', category:'gifts', categoryLabel:'Gifts & play', price:399, salePrice:199, image:'assets/stress-balls.jpg', alt:'Two soft pink and white crochet stress balls', description:'Soft, squishy companions for a little moment of calm.' }
+];
